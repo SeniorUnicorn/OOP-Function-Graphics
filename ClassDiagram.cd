@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IFunc">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQABAAAggEAABgAAAAAAQAEAABAAGCAAAAIAEhBBA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Func">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgQEBAAAggEAAAgAQAQAAQAEAABAAGGAAABIAEgBBA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpFunc">
+    <Position X="3" Y="11" Width="1.5" />
+    <InheritanceLine Type="Func" ManuallyRouted="true">
+      <Path>
+        <Point X="3.75" Y="6.992" />
+        <Point X="3.75" Y="7.625" />
+        <Point X="4.778" Y="7.625" />
+        <Point X="4.778" Y="10.679" />
+        <Point X="3.75" Y="10.679" />
+        <Point X="3.75" Y="11" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAEAAAAABCAAAIAAAAAAA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SinFunc">
+    <Position X="1" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAQAEAQAAAACAAAAAAAAARA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CosFunc">
+    <Position X="3" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAIAAAAAAAAAAAAAAQAEEAAAAACAAAAAAAAABA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParabFunc">
+    <Position X="5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABCAAAAAAIAAAAAAAAQAEAAAAAACAAAAAAAAABA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogFunc">
+    <Position X="1" Y="11" Width="1.5" />
+    <InheritanceLine Type="Func" ManuallyRouted="true">
+      <Path>
+        <Point X="3.75" Y="6.992" />
+        <Point X="3.75" Y="7.625" />
+        <Point X="2.77" Y="7.625" />
+        <Point X="2.77" Y="10.672" />
+        <Point X="1.75" Y="10.672" />
+        <Point X="1.75" Y="11" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAQAAAAAQAACAAAAAAAAAAA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqrtFunc">
+    <Position X="5" Y="11" Width="1.5" />
+    <InheritanceLine Type="Func" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.75" Y="6.992" />
+        <Point X="3.75" Y="7.625" />
+        <Point X="6.769" Y="7.625" />
+        <Point X="6.769" Y="10.688" />
+        <Point X="5.812" Y="10.688" />
+        <Point X="5.812" Y="11" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAADAgAAAAAAAAA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Color">
+    <Position X="1" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Point">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Classes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
